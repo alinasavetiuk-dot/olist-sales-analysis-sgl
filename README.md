@@ -206,6 +206,7 @@ Marketing and logistics strategies should prioritize major cities where most dem
 
 ---
 
-# SQL Code
+## Repository Structure
 
-The SQL queries used in this project can be found in:
+data_preparation.sql — data cleaning and preparation  
+analysis.sql — KPI calculations and business analysis
